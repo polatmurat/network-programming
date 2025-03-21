@@ -46,7 +46,7 @@ This project is a comprehensive network diagnostic tool built using Python 3. It
    It's recommended to use a virtual environment for Python to manage dependencies:
 
    ```bash
-   cd network-diagnostic-tool
+   cd network-programming
    python3 -m venv venv
    source venv/bin/activate  # On Windows, use venv\Scripts\activate
    ```
