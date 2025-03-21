@@ -38,7 +38,7 @@ This project is a comprehensive network diagnostic tool built using Python 3. It
    Clone the repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/yourusername/network-diagnostic-tool.git
+   git clone https://github.com/polatmurat/network-programming.git
    ```
 
 2. **Install Dependencies**
