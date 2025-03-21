@@ -1,4 +1,3 @@
-Tabii, işte kopyalayabileceğiniz şekilde formatlanmış **README.md** dosyasını aşağıda bulabilirsiniz:
 
 ```markdown
 # Network Diagnostic and Tool Package Project
